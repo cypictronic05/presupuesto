@@ -98,4 +98,7 @@
   
     .input-group input[type="number"],
     .input-group button {
+      font-size: 1rem;
+    }
+  }
   
